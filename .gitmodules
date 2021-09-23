@@ -1,0 +1,3 @@
+[submodule "React-Stories"]
+	path = React-Stories
+	url = git@github.com:eversardoth/React-Stories.git
