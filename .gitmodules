@@ -7,3 +7,6 @@
 [submodule "Software Development/BackEnd/Spring/Users-System"]
 	path = Software Development/BackEnd/Spring/Users-System
 	url = git@github.com:eversardoth/Users-System.git
+[submodule "Software Development/BackEnd/NodeJS/Jobs-API"]
+	path = Software Development/BackEnd/NodeJS/Jobs-API
+	url = git@github.com:eversardoth/Jobs-API.git
