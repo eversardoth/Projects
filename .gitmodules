@@ -4,3 +4,6 @@
 [submodule "Software Development/FrontEnd/React-Stories"]
 	path = Software Development/FrontEnd/React-Stories
 	url = git@github.com:eversardoth/React-Stories.git
+[submodule "Software Development/BackEnd/Spring/Appointments-System"]
+	path = Software Development/BackEnd/Spring/Appointments-System
+	url = git@github.com:eversardoth/Appointments-System.git
