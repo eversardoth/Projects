@@ -4,3 +4,6 @@
 [submodule "Software Development/BackEnd/Spring/Appointments-System"]
 	path = Software Development/BackEnd/Spring/Appointments-System
 	url = git@github.com:eversardoth/Appointments-System.git
+[submodule "Software Development/BackEnd/Spring/Users-System"]
+	path = Software Development/BackEnd/Spring/Users-System
+	url = git@github.com:eversardoth/Users-System.git
