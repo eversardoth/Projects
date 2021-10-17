@@ -10,3 +10,12 @@
 [submodule "Software Development/BackEnd/NodeJS/Jobs-API"]
 	path = Software Development/BackEnd/NodeJS/Jobs-API
 	url = git@github.com:eversardoth/Jobs-API.git
+[submodule "Software Development/BackEnd/NodeJS/JWT-Basics"]
+	path = Software Development/BackEnd/NodeJS/JWT-Basics
+	url = git@github.com:eversardoth/JWT-Basics.git
+[submodule "Software Development/BackEnd/NodeJS/Store-API"]
+	path = Software Development/BackEnd/NodeJS/Store-API
+	url = git@github.com:eversardoth/Store-API.git
+[submodule "Software Development/BackEnd/NodeJS/Task-Manager"]
+	path = Software Development/BackEnd/NodeJS/Task-Manager
+	url = git@github.com:eversardoth/Task-Manager.git
