@@ -19,3 +19,9 @@
 [submodule "Software Development/BackEnd/NodeJS/Task-Manager"]
 	path = Software Development/BackEnd/NodeJS/Task-Manager
 	url = git@github.com:eversardoth/Task-Manager.git
+[submodule "Software Development/FrontEnd/Appointments-System-FE"]
+	path = Software Development/FrontEnd/Appointments-System-FE
+	url = git@github.com:eversardoth/Appointments-System-FE.git
+[submodule "Software Development/FrontEnd/Jobs-API-FE"]
+	path = Software Development/FrontEnd/Jobs-API-FE
+	url = git@github.com:eversardoth/Jobs-API-FE.git
